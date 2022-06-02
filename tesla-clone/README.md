@@ -45,6 +45,8 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+- Link tutorial :
+  https://www.youtube.com/watch?v=0mVbNp1ol_w
 - Create project:
   npx create-react-app tesla-clone --template redux
 - Add style-components:
